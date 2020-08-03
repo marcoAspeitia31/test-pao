@@ -1,0 +1,66 @@
+/* Header */
+.navbar-nav li a {
+  color: white !important;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.navbar-nav li a:hover {
+  color: rebeccapurple !important;
+  transition: all 0.5s ease-in;
+}
+
+/* Hero Slider */
+.slider {
+  background: url("../img/slider.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 80rem;
+  width: 100%;
+}
+.slider-overlay {
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.65);
+}
+.slider-top-icons .fa {
+  font-size: 3rem;
+}
+.call-to-action {
+  margin-bottom: 1.55rem;
+}
+.button1,
+.button2 {
+  color: white;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  border: 2px solid white;
+}
+.button1:hover,
+.button2:hover {
+  color: white;
+  text-decoration: none;
+  background-color: orangered;
+  border: 2px solid orangered;
+  transition: all 0.5s ease-in;
+}
+.button1 {
+  border-top-left-radius: 1.5rem;
+}
+.button2 {
+  border-bottom-right-radius: 1.5rem;
+}
+.social-icons .fa {
+  border: 1px solid white;
+  color: white;
+  font-size: 2rem;
+  padding: 1rem;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 2rem;
+  transition: all 0.5s ease-in-out;
+}
+.social-icons .fa:hover {
+  text-decoration: none;
+  background-color: orangered;
+  border: 1px solid orangered;
+}
