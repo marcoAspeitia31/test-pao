@@ -10,4 +10,4 @@ Conocimientos básicos en HTML5, CSS3
 Muchas ganas de aprender
 
 Objetivo:
-pull request hacia este repo a través de un fork, en index.html necesitas generar una sección que despliegue el texto HOLA MUNDO en color rojo.
+pull request hacia staging de este repo a través de un fork, en index.html necesitas generar una sección que despliegue el texto HOLA MUNDO en color rojo.
